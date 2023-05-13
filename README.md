@@ -20,7 +20,6 @@ Our experiment results are saved in this repository as pickle files:
 - **Supervised and Self-supervised Pretraining:** `across_table_pretraining_finetuning.pickle`
 
 ## How to run the reproducibility experiments
-1. **Local run**
 ### Clone this project
 The first step is to clone this project:
 ```bash
@@ -40,6 +39,9 @@ The third step is to run the desired reproducibility experiment:
 - **Transfer Learning:** `python transfer_learning.py`
 - **Zero-Shot Learning:** `python zeroshot_learning.py`
 - **Supervised and Self-supervised Pretraining:** `python supervised_selfsupervised_pretrain_finetuning.py`
+
+### Google colab alternative
+Alternatively, you can upload this repository's files into a Google colab session and use the `Trasntab.ipynb` file.
 
 
 ## Code
