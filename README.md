@@ -18,12 +18,20 @@ The first step is to clone this project:
 git clone https://github.com/COMP6258-Reproducibility-Challenge/TransTab-Reproducibility.git
 cd Transtab-Reproducibility/
 ```
-### CONDA environment
+### Conda environment
 The second step is to create a conda environment from our `environment.yml`:
 ```
 conda env create -f environment.yml
 conda activate TranstabReproducibility
 ```
+### Run the desired reproducibility experiment
+The third step is to run the desired reproducibility experiment:
+- **Supervised learning:** `python supervised_learning.py`
+- **Feature Incremental Learning:** `python incremental_learning.py`
+- **Transfer Learning:** `python transfer_learning.py`
+- **Zero-Shot Learning:** `python zeroshot_learning.py`
+- **Supervised and Self-supervised Pretraining:** `python supervised_selfsupervised_pretrain_finetuning.py`
+
 
 ## Code
 We verified Transtab's reproducibility by leveraging <a href="https://github.com/RyanWangZf/transtab">Transtab's code package</a> v. `0.0.2`. On the 05/04/23 v. `0.0.5` was released. In the following, we list our code and the one retrieved from the original repository.
