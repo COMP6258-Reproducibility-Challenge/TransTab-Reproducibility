@@ -8,4 +8,4 @@ The ubiquity of tabular data in machine learning led Wang & Sun (2022) to introd
 
 ### Experiment results
 Our experiment results are saved in this repository as pickle files.
-- Supervised learning -> ``
+- Supervised learning -> `supervised_learning.pickle`
