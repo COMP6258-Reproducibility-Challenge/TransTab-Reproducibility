@@ -13,7 +13,7 @@ The ubiquity of tabular data in machine learning led Wang & Sun (2022) to introd
 
 ### Code
 We verified Transtab's reproducibility by leveraging <a href="https://github.com/RyanWangZf/transtab">Transtab's code package</a> v. `0.0.2`. On the 05/04/23 v. `0.0.5` was released. In the following we list our code and the one retrieved from the original repository.
-Our code:
+1. Our code:
 - `Rankings.ipynb`
 - `Transtab.ipynb`
 - `incremental_learning.py`
@@ -21,7 +21,7 @@ Our code:
 - `supervised_selfsupervised_pretrain_finetuning.py`
 - `transfer_learning.py`
 - `zeroshot_learning.py`
-Original code:
+2. Original code:
 - `constants.py`
 - `dataset.py`
 - `evaluator.py`
