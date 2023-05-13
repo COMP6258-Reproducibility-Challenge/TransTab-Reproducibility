@@ -3,7 +3,7 @@ Created by <a href="https://github.com/albertotamajo" target="_blank">Alberto Ta
 
 <p align="center">
   <img src="https://github.com/COMP6258-Reproducibility-Challenge/TransTab-Reproducibility/blob/main/transtab.png", width="60%", height="60%"/>
-  Transtab architecture. Figure from original paper
+  <p>Transtab architecture. Figure from original paper</p>
 </p>
 
 ### Introduction
