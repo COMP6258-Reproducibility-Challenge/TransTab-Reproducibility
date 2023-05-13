@@ -1,4 +1,4 @@
-# A REPRODUCIBILITY STUDY OF TRANSTAB: LEARNING TRANSFERABLE TABULAR TRANSFORMERS ACROSS TABLES
+# A Reproducibility Study Of Transtab: Learning Transferable Tabular Transformer Across Tables
 Created by <a href="https://github.com/albertotamajo" target="_blank">Alberto Tamajo</a>, <a href="https://github.com/JakubDylag" target="_blank">Jakub Dylag</a>, <a href="" target="_blank">Alessandro Nerla</a> and <a href="" target="_blank">Laurin Lanz</a>.
 
 ### Introduction
