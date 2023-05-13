@@ -15,8 +15,13 @@ The ubiquity of tabular data in machine learning led Wang & Sun (2022) to introd
 ### Clone this project
 The first step is to clone this project:
 ```bash
-git clone https://git.soton.ac.uk/at2n19/gdp.git](https://github.com/COMP6258-Reproducibility-Challenge/TransTab-Reproducibility.git
+git clone https://github.com/COMP6258-Reproducibility-Challenge/TransTab-Reproducibility.git
 cd Transtab-Reproducibility/
+```
+### CONDA environment
+```
+conda env create -f environment.yml
+conda activate TranstabReproducibility
 ```
 
 ## Code
