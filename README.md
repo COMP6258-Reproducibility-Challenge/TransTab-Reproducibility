@@ -19,6 +19,7 @@ git clone https://github.com/COMP6258-Reproducibility-Challenge/TransTab-Reprodu
 cd Transtab-Reproducibility/
 ```
 ### CONDA environment
+The second step is to create a conda environment from our `environment.yml`:
 ```
 conda env create -f environment.yml
 conda activate TranstabReproducibility
