@@ -20,6 +20,7 @@ Our experiment results are saved in this repository as pickle files:
 - **Supervised and Self-supervised Pretraining:** `across_table_pretraining_finetuning.pickle`
 
 ## How to run the reproducibility experiments
+1. **Local run**
 ### Clone this project
 The first step is to clone this project:
 ```bash
