@@ -12,7 +12,7 @@ In this work, we verify the reproducibility of <a href="https://arxiv.org/abs/22
 The ubiquity of tabular data in machine learning led Wang & Sun (2022) to introduce a versatile tabular learning framework, Transferable Tabular Transformer (TransTab), capable of modelling variable-column tables. Furthermore, they proposed a novel technique that enables supervised or self-supervised pretraining on multiple tables, as well as finetuning on the target dataset. Given the potential impact of their work, we aim to verify their claims by trying to reproduce their results. Specifically, we try to corroborate the ’methods’ and ’results’ reproducibility of their paper.
 
 ### Code
-We verified Transtab's reproducibility by leveraging <a href="https://github.com/RyanWangZf/transtab">Transtab's code package</a>
+We verified Transtab's reproducibility by leveraging <a href="https://github.com/RyanWangZf/transtab">Transtab's code package</a> v. `0.0.2`
 
 ### Experiment results
 Our experiment results are saved in this repository as pickle files:
