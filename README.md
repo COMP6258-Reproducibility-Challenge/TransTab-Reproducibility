@@ -2,10 +2,8 @@
 Created by <a href="https://github.com/albertotamajo" target="_blank">Alberto Tamajo</a>, <a href="https://github.com/JakubDylag" target="_blank">Jakub Dylag</a>, <a href="" target="_blank">Alessandro Nerla</a> and <a href="" target="_blank">Laurin Lanz</a>.
 
 <p align="center">
-  <figure>
   <img src="https://github.com/COMP6258-Reproducibility-Challenge/TransTab-Reproducibility/blob/main/transtab.png", width="60%", height="60%"/>
-  <figcaption>Transtab architecture. Figure from original paper</figcaption>
-  </figure>  
+  Transtab architecture. Figure from original paper
 </p>
 
 ### Introduction
