@@ -8,4 +8,8 @@ The ubiquity of tabular data in machine learning led Wang & Sun (2022) to introd
 
 ### Experiment results
 Our experiment results are saved in this repository as pickle files.
-- Supervised learning -> `supervised_learning.pickle`
+- **Supervised learning:** `supervised_learning.pickle`
+- **Feature Incremental Learning:** `incremental_learning.pickle`
+- **Transfer Learning:** `transfer_learning.pickle`
+- **Zero-Shot Learning:** `zeroshot_learning.pickle`
+- **Supervised and Self-supervised Pretraining:** `across_table_pretraining_finetuning.pickle`
